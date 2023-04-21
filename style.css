@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    height: 100vh;
+}
+
+.contain{
+    width: 100%;
+    height: 90vh;
+}
+
+.tabla-contain{
+    width: 80%;
+}
+
+.btn-size{
+    width: 3rem;
+    margin-bottom: 1rem;
+}
+
+.tittle{
+    gap: 1rem;
+}
